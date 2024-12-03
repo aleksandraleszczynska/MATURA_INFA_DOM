@@ -1,0 +1,8 @@
+zad.1
+28.09.2015
+zad.2
+dostawy - 18
+drewno - 167
+gaz - 32
+zad.3
+468

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1721562569 source:c:\users\dell\desktop\matura_infa\2020 czerwiec\zadania\plik.cpp
+	<iostream>
+	<fstream>
+	<string>
+
